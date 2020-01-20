@@ -7,5 +7,5 @@ def square_array(array)
    newarr << array[counter]*array[counter]
    counter += 1
   end
-  
+  newarr
 end
